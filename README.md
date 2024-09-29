@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, my name is Nekraosv Dmitriy :sunglasses::potted_plant:
 
-<!--
-**nekrasov-d/nekrasov-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a digital design engineer with 10 years of experience.
 
-Here are some ideas to get you started:
+Mostly interested in contributing into state-of-the-art telecommunication
+technologies. Preferably, PHY-level radio transmission protocols with
+challenging DSP R&D (both FPGA and VLSI implementations).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here I have some toy repos I have made for fun and also to demonstrate some
+skills. Features:
+  * No junk here. Everything is published in hope of being clear and useful.
+  * Although I can't imagine 'gabella' being reused, there are also a lot of
+  useful parts (SPFIF transmitter, for example).
+  * I will try to be in touch with anyone who is interested in any of my works.
+  Please contact me: <bluebag@yandex.ru>
