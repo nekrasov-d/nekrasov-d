@@ -13,3 +13,7 @@ skills. Features:
   useful parts (SPFIF transmitter, for example).
   * I will try to be in touch with anyone who is interested in any of my works.
   Please contact me: <bluebag@yandex.ru>
+
+[Linkedin](http://www.linkedin.com/in/dmitriy-nekrasov-60b433330)
+
+CV on request
