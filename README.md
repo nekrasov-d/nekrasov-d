@@ -1,4 +1,4 @@
-Hello, my name is Nekraosv Dmitriy :sunglasses::potted_plant:
+Hello, my name is Nekrasov Dmitriy :sunglasses::potted_plant:
 
 I am a digital design engineer with 10 years of professional experience.
 
